@@ -1,0 +1,10 @@
+Package: com.givdev.facetimemena
+Name: FacetimeMena
+Depends: firmware (>=11.0), mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: enable facetime in unsupported mena countries
+Maintainer: GivDev
+Author: GivDev
+Section: Tweak
+Icon: https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios9-facetime-icon.png
